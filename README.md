@@ -1,4 +1,8 @@
+![alt-text](https://media0.giphy.com/media/pH98JIE0JSnMpOPQ1r/giphy.gif)
+
 ### Hi there 👋
+
+
 
 <!--
 **edunzer/edunzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
