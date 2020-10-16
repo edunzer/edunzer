@@ -1,4 +1,4 @@
-<a href="url"><img src="https://github.com/edunzer/edunzer/blob/main/C866WH98F9R5R369.gif" width="250">
+<a href="url"><img src="https://github.com/edunzer/edunzer/blob/main/C866WH98F9R5R369.gif" width="1000">
 <!--
 **edunzer/edunzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
