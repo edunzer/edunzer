@@ -2,6 +2,8 @@
   
 ## 💻 OREGON TECH | INFOROMATION AND TECHNOLOGY CLASSES
 
+[Link button](http://example.com/){: .btn }
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/MartinHeinz/MartinHeinz">
