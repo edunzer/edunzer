@@ -1,4 +1,10 @@
 <a href="url"><img src="https://github.com/edunzer/edunzer/blob/main/FINISHED%20GITHUB%20CUT%20GIF.gif" width="950">
+  
+## 💻 OREGON TECH | INFOROMATION AND TECHNOLOGY CLASSES
+
+![](https://img.shields.io/badge/BUS223-MARKETING I-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+ 
+ 
 <!--
 **edunzer/edunzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
