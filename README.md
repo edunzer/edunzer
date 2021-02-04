@@ -69,8 +69,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edunzer&repo=CURRENT_RESUME&title_color=464646&text_color=666666&icon_color=95D575&bg_color=F7F7F7" />
 </a> 
 
-## 🎧 Spotify Playing
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="itgoyo Spotify Playing" width="350" />](https://open.spotify.com/user/12135519736)
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12135519736&cover_image=true)](https://open.spotify.com/user/12135519736)
