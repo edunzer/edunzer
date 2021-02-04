@@ -3,36 +3,46 @@
 ## 💻 OREGON TECH | INFORMATION AND TECHNOLOGY CLASSES
 
 #### MIS CLASSES
+<table width="100%"> 
+  <tr>
+  <td width="33%">
 <a href="https://github.com/edunzer/MIS118_INTRO_TO_PROGRAMMING_IN_C_SHARP">
 <img src="https://img.shields.io/badge/MIS118-INTRO%20TO%20PROGRAMMING%20IN%20C%23-green">
 </a>
+    <a href="https://github.com/edunzer/MIS240_INTRO_TO_LINUX_OS">
+<img src="https://img.shields.io/badge/MIS240-INTRO%20TO%20LINUX%20OX-green">
+</a>
+    <a href="https://github.com/edunzer/MIS275_INTRO_TO_RELATIONAL_DATABASE">
+<img src="https://img.shields.io/badge/MIS275-INTRO%20TO%20RELATIONAL%20DATABASE-green">
+</a>
+    <a href="https://github.com/edunzer/MIS341_RELATIONAL_DATABASE_I">
+<img src="https://img.shields.io/badge/MIS341-RELATIONAL%20DATABASE%20I-green">
+</a>
+  </td>
+  <td width="33%">
 <a href="https://github.com/edunzer/MIS145_INTRO_TO_PC_HARDWARE_SOFTWARE">
 <img src="https://img.shields.io/badge/MIS145-INTRO%20TO%20PC%20HARDWARE%20SOFTWARE-green">
 </a>
+    <a href="https://github.com/edunzer/MIS251_NETWORKING_FUNDAMENTALS">
+<img src="https://img.shields.io/badge/MIS251-NETWORKING%20FUNDAMENTALS-green">
+</a>
+    <a href="https://github.com/edunzer/MIS285_PYTHON_PROGRAMMING">
+<img src="https://img.shields.io/badge/MIS285%20-PYTHON%20PROGRAMMING-green">
+</a>
+  </td>
+  <td width="33%">
 <a href="https://github.com/edunzer/MIS218_DATABASE_PROGRAMMING">
 <img src="https://img.shields.io/badge/MIS218-DATABASE%20PROGRAMMING-green">
 </a>
-<a href="https://github.com/edunzer/MIS240_INTRO_TO_LINUX_OS">
-<img src="https://img.shields.io/badge/MIS240-INTRO%20TO%20LINUX%20OX-green">
-</a>
-<a href="https://github.com/edunzer/MIS251_NETWORKING_FUNDAMENTALS">
-<img src="https://img.shields.io/badge/MIS251-NETWORKING%20FUNDAMENTALS-green">
-</a>
-<a href="https://github.com/edunzer/MIS273_WINDOWS_SERVER_FUNDAMENTALS">
+    <a href="https://github.com/edunzer/MIS273_WINDOWS_SERVER_FUNDAMENTALS">
 <img src="https://img.shields.io/badge/MIS273-WINDOWS%20SERVER%20FUNDAMENTALS-green">
 </a>
-<a href="https://github.com/edunzer/MIS275_INTRO_TO_RELATIONAL_DATABASE">
-<img src="https://img.shields.io/badge/MIS275-INTRO%20TO%20RELATIONAL%20DATABASE-green">
-</a>
-<a href="https://github.com/edunzer/MIS285_PYTHON_PROGRAMMING">
-<img src="https://img.shields.io/badge/MIS285%20-PYTHON%20PROGRAMMING-green">
-</a>
-<a href="https://github.com/edunzer/MIS311_INTRO_TO_SYSTEMS_ANALYSIS">
+    <a href="https://github.com/edunzer/MIS311_INTRO_TO_SYSTEMS_ANALYSIS">
 <img src="https://img.shields.io/badge/MIS311%20-INTRO%20TO%20SSYTEMS%20ANALYSIS-green">
 </a>
-<a href="https://github.com/edunzer/MIS341_RELATIONAL_DATABASE_I">
-<img src="https://img.shields.io/badge/MIS341-RELATIONAL%20DATABASE%20I-green">
-</a>
+  </td>
+  </table>
+
 
 #### WRI CLASSES
 <a href="https://github.com/edunzer/WRI122_ARGUMENTATIVE_WRITING">
