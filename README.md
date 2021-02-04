@@ -2,6 +2,10 @@
 
 ## 💻 OREGON TECH | INFOROMATION AND TECHNOLOGY CLASSES
 
+<a href="https://github.com/edunzer/MIS118_INTRO_TO_PROGRAMMING_IN_C_SHARP">
+<img src="https://img.shields.io/badge/MIS118-INTRO%20TO%20PROGRAMMING%20IN%20C%23-green">
+</a>
+
 #### MIS CLASSES
 
 <a href="https://github.com/edunzer/MIS118_INTRO_TO_PROGRAMMING_IN_C_SHARP">
@@ -34,11 +38,13 @@
 <a href="https://github.com/edunzer/MIS341_RELATIONAL_DATABASE_I">
 ![](https://img.shields.io/badge/MIS341-RELATIONAL%20DATABASE%20I-green)
 </a>
+
 #### WRI CLASSES
 
 <a href="https://github.com/edunzer/WRI122_ARGUMENTATIVE_WRITING">
 ![](https://img.shields.io/badge/WRI122-ARGUMENTATIVE%20WRITING-green)
 </a>
+
 #### BUS CLASSES
 
 <a href="https://github.com/edunzer/BUS223_MARKETING_I">
