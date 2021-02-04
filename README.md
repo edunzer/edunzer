@@ -2,7 +2,20 @@
   
 ## 💻 OREGON TECH | INFOROMATION AND TECHNOLOGY CLASSES
 
-![](https://img.shields.io/badge//librariesio/github/:edunzer/:MIS285_PYTHON_PROGRAMMING)
+![](https://https://img.shields.io/badge/MIS285%20-PYTHON%20PROGRAMMING-green)
+![](https://img.shields.io/badge/MIS251-NETWORKING%20FUNDAMENTALS-green)
+![](https://img.shields.io/badge/BUS223-MARKETING%20I-green)
+![](https://https://img.shields.io/badge/MIS285%20-PYTHON%20PROGRAMMING-green)
+![](https://https://img.shields.io/badge/MIS285%20-PYTHON%20PROGRAMMING-green)
+![](https://https://img.shields.io/badge/MIS285%20-PYTHON%20PROGRAMMING-green)
+![](https://https://img.shields.io/badge/MIS285%20-PYTHON%20PROGRAMMING-green)
+![](https://https://img.shields.io/badge/MIS285%20-PYTHON%20PROGRAMMING-green)
+![](https://https://img.shields.io/badge/MIS285%20-PYTHON%20PROGRAMMING-green)
+![](https://https://img.shields.io/badge/MIS285%20-PYTHON%20PROGRAMMING-green)
+
+
+
+
 
 [Click me](http://www.google.com)
 
