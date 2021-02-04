@@ -52,9 +52,7 @@
 <a href="https://github.com/edunzer/BUS226_BUSINESS_LAW">
 <img src="https://img.shields.io/badge/BUS304-ENGINEERING%20MANAGEMENT-green">
 </a>
-<a href="https://github.com/edunzer/ethandunzer.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edunzer&repo=ethandunzer.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> 
+
 
 
 
@@ -66,3 +64,9 @@
 <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=edunzer&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
+<a href="https://github.com/edunzer/ethandunzer.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edunzer&repo=ethandunzer.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
+<a href="https://github.com/edunzer/CURRENT_RESUME">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edunzer&repo=CURRENT_RESUME&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
