@@ -56,31 +56,15 @@
 ## &#x1f4c8; GITHUB STATS
 
 <a href="https://github.com/edunzer/edunzer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=edunzer&show_icons=true&line_height=27&count_private=true&
-                           title_color=ffffff&
-                           text_color=2D2D2D&
-                           icon_color=2bbc8a&
-                           bg_color=C7C7C7" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=edunzer&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=2D2D2D&icon_color=2bbc8a&bg_color=C7C7C7" />
 </a>
 <a href="https://github.com/edunzer/edunzer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edunzer&hide=java,html&
-                           title_color=ffffff&
-                           text_color=2D2D2D&
-                           icon_color=2bbc8a&
-                           bg_color=C7C7C7" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edunzer&hide=java,html&title_color=ffffff&text_color=2D2D2D&icon_color=2bbc8a&bg_color=C7C7C7" />
 </a>
 
 <a href="https://github.com/edunzer/ethandunzer.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edunzer&repo=ethandunzer.github.io&
-                           title_color=ffffff&
-                           text_color=2D2D2D&
-                           icon_color=2bbc8a&
-                           bg_color=C7C7C7" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edunzer&repo=ethandunzer.github.io&title_color=ffffff&text_color=2D2D2D&icon_color=2bbc8a&bg_color=C7C7C7" />
 </a> 
 <a href="https://github.com/edunzer/CURRENT_RESUME">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edunzer&repo=CURRENT_RESUME&
-                           title_color=ffffff&
-                           text_color=2D2D2D&
-                           icon_color=2bbc8a&
-                           bg_color=C7C7C7" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edunzer&repo=CURRENT_RESUME&title_color=ffffff&text_color=2D2D2D&icon_color=2bbc8a&bg_color=C7C7C7" />
 </a> 
