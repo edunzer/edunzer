@@ -2,7 +2,9 @@
   
 ## 💻 OREGON TECH | INFOROMATION AND TECHNOLOGY CLASSES
 
-[Click me](http://www.google.com){: .btn}
+![](https://img.shields.io/badge//librariesio/github/:edunzer/:MIS285_PYTHON_PROGRAMMING)
+
+[Click me](http://www.google.com)
 
 ## &#x1f4c8; GitHub Stats
 
