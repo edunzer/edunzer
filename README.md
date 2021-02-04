@@ -2,7 +2,7 @@
   
 ## 💻 OREGON TECH | INFOROMATION AND TECHNOLOGY CLASSES
 
-
+#### MIS CLASSES
 ![](https://img.shields.io/badge/MIS118-INTRO%20TO%20PROGRAMMING%20IN%20C%23-green)
 ![](https://img.shields.io/badge/MIS145-INTRO%20TO%20PC%20HARDWARE%20SOFTWARE-green)
 ![](https://img.shields.io/badge/MIS218-DATABASE%20PROGRAMMING-green)
@@ -13,7 +13,9 @@
 ![](https://img.shields.io/badge/MIS285%20-PYTHON%20PROGRAMMING-green)
 ![](https://img.shields.io/badge/MIS311%20-INTRO%20TO%20SSYTEMS%20ANALYSIS-green)
 ![](https://img.shields.io/badge/MIS341-RELATIONAL%20DATABASE%20I-green)
+#### WRI CLASSES
 ![](https://img.shields.io/badge/WRI122-ARGUMENTATIVE%20WRITING-green)
+#### BUS CLASSES
 ![](https://img.shields.io/badge/BUS223-MARKETING%20I-green)
 ![](https://img.shields.io/badge/BUS226-BUSINESS%20LAW-green)
 ![](https://img.shields.io/badge/BUS304-ENGINEERING%20MANAGEMENT-green)
