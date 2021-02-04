@@ -52,6 +52,9 @@
 <a href="https://github.com/edunzer/BUS226_BUSINESS_LAW">
 <img src="https://img.shields.io/badge/BUS304-ENGINEERING%20MANAGEMENT-green">
 </a>
+<a href="https://github.com/edunzer/ethandunzer.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edunzer&repo=ethandunzer.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
 
 
 
