@@ -2,7 +2,8 @@
   
 ## 💻 OREGON TECH | INFOROMATION AND TECHNOLOGY CLASSES
 
-![](https://https://img.shields.io/badge/MIS118-INTRO%20TO%20PROGRAMMING%20IN%20C%23-green)
+
+![](https://img.shields.io/badge/MIS118-INTRO%20TO%20PROGRAMMING%20IN%20C%23-green)
 ![](https://https://img.shields.io/badge/MIS145-INTRO%20TO%20PC%20HARDWARE%20SOFTWARE-green)
 ![](https://https://img.shields.io/badge/MIS218-DATABASE%20PROGRAMMING-green)
 ![](https://https://img.shields.io/badge/MIS240-INTRO%20TO%20LINUX%20OX-green) 
