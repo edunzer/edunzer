@@ -1,6 +1,6 @@
 <a href="url"><img src="https://github.com/edunzer/edunzer/blob/main/FINISHED%20GITHUB%20CUT%20GIF.gif" width="950">
 
-## 💻 OREGON TECH | INFOROMATION AND TECHNOLOGY CLASSES
+## 💻 OREGON TECH | INFORMATION AND TECHNOLOGY CLASSES
 
 #### MIS CLASSES
 <a href="https://github.com/edunzer/MIS118_INTRO_TO_PROGRAMMING_IN_C_SHARP">
