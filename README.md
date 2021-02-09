@@ -26,13 +26,13 @@
 <img src="https://img.shields.io/badge/MIS285%20-PYTHON%20PROGRAMMING-green">
 </a>
 <a href="https://github.com/edunzer/MIS218_DATABASE_PROGRAMMING">
-<img src="https://img.shields.io/badge/MIS218-DATABASE%20PROGRAMMING-green">
+<img src="https://img.shields.io/badge/MIS218-DATABASE%20PROGRAMMING-lightgrey">
 </a>
 <a href="https://github.com/edunzer/MIS273_WINDOWS_SERVER_FUNDAMENTALS">
-<img src="https://img.shields.io/badge/MIS273-WINDOWS%20SERVER%20FUNDAMENTALS-green">
+<img src="https://img.shields.io/badge/MIS273-WINDOWS%20SERVER%20FUNDAMENTALS-lightgrey">
 </a>
 <a href="https://github.com/edunzer/MIS311_INTRO_TO_SYSTEMS_ANALYSIS">
-<img src="https://img.shields.io/badge/MIS311%20-INTRO%20TO%20SSYTEMS%20ANALYSIS-green">
+<img src="https://img.shields.io/badge/MIS311%20-INTRO%20TO%20SSYTEMS%20ANALYSIS-lightgrey">
 </a>
 
 
@@ -49,12 +49,14 @@
 <a href="https://github.com/edunzer/BUS226_BUSINESS_LAW">
 <img src="https://img.shields.io/badge/BUS226-BUSINESS%20LAW-green">
 </a>
-<a href="https://github.com/edunzer/BUS226_BUSINESS_LAW">
-<img src="https://img.shields.io/badge/BUS304-ENGINEERING%20MANAGEMENT-green">
+<a href="https://github.com/edunzer/BUS304_ENGINEERING_MANAGEMENT">
+<img src="https://img.shields.io/badge/BUS304-ENGINEERING%20MANAGEMENT-lightgrey">
 </a>
 
+###### KEY
 
-
+<img src="https://img.shields.io/badge/KEY-COMPLETE-green">
+<img src="https://img.shields.io/badge/KEY-INPROGRESS-lightgrey">
 
 ## &#x1f4c8; GITHUB STATS
 
