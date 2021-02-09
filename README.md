@@ -54,7 +54,7 @@
 </a>
 
 ##### KEY
-> <img src="https://img.shields.io/badge/KEY-COMPLETE-green"><img src="https://img.shields.io/badge/KEY-INPROGRESS-lightgrey">
+> <img src="https://img.shields.io/badge/-COMPLETE-green"><img src="https://img.shields.io/badge/-INPROGRESS-lightgrey">
 
 
 ## &#x1f4c8; GITHUB STATS
