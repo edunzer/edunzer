@@ -53,11 +53,9 @@
 <img src="https://img.shields.io/badge/BUS304-ENGINEERING%20MANAGEMENT-lightgrey">
 </a>
 
-###### KEY
-
+--------------------------------------------
 <img src="https://img.shields.io/badge/KEY-COMPLETE-green"><img src="https://img.shields.io/badge/KEY-INPROGRESS-lightgrey">
-
-
+--------------------------------------------
 ## &#x1f4c8; GITHUB STATS
 
 <table width="100%"> 
