@@ -60,6 +60,7 @@ ___
 
 ## &#x1f4c8; GITHUB STATS
 
+<a href="https://github.com/edunzer?tab=repositories">
 <table width="100%"> 
   <tr>
   <td width="50%">
@@ -79,7 +80,7 @@ ___
     </a> 
   </td>
   </table>
-
+</a>
 
 
 
