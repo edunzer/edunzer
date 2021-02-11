@@ -64,18 +64,18 @@ ___
 <table width="100%"> 
   <tr>
   <td width="50%">
-    <a href="https://github.com/edunzer/edunzer">
+    <a href="https://github.com/edunzer?tab=repositories">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=edunzer&show_icons=true&line_height=27&count_private=true&title_color=464646&text_color=666666&icon_color=95D575&bg_color=F7F7F7" />
     </a>
-    <a href="https://github.com/edunzer/ethandunzer.github.io">
+    <a href="https://github.com/edunzer?tab=repositories">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edunzer&repo=ethandunzer.github.io&title_color=464646&text_color=666666&icon_color=95D575&bg_color=F7F7F7" />
     </a> 
   </td>
   <td width="50%">
-    <a href="https://github.com/edunzer/edunzer">
+    <a href="https://github.com/edunzer?tab=repositories">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edunzer&hide=java,html&title_color=464646&text_color=666666&icon_color=95D575&bg_color=F7F7F7" />
     </a> 
-    <a href="https://github.com/edunzer/CURRENT_RESUME">
+    <a href="https://github.com/edunzer?tab=repositories">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edunzer&repo=CURRENT_RESUME&title_color=464646&text_color=666666&icon_color=95D575&bg_color=F7F7F7" />
     </a> 
   </td>
