@@ -75,7 +75,7 @@ ___
     <a href="https://github.com/edunzer?tab=repositories">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edunzer&hide=java,html&title_color=464646&text_color=666666&icon_color=95D575&bg_color=F7F7F7" />
     </a> 
-    <a href="https://github.com/edunzer?tab=repositories">
+    <a href="https://github.com/edunzer/CURRENT_RESUME">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edunzer&repo=CURRENT_RESUME&title_color=464646&text_color=666666&icon_color=95D575&bg_color=F7F7F7" />
     </a> 
   </td>
