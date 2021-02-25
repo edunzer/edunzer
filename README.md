@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/MIS273-WINDOWS%20SERVER%20FUNDAMENTALS-lightgrey">
 </a>
 <a href="https://github.com/edunzer/MIS311_INTRO_TO_SYSTEMS_ANALYSIS">
-<img src="https://img.shields.io/badge/MIS311%20-INTRO%20TO%20SSYTEMS%20ANALYSIS-lightgrey">
+<img src="https://img.shields.io/badge/MIS311%20-INTRO%20TO%20SYTEMS%20ANALYSIS-lightgrey">
 </a>
 
 
