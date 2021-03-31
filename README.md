@@ -26,13 +26,16 @@
 <img src="https://img.shields.io/badge/MIS285%20-PYTHON%20PROGRAMMING-green">
 </a>
 <a href="https://github.com/edunzer/MIS218_DATABASE_PROGRAMMING">
-<img src="https://img.shields.io/badge/MIS218-DATABASE%20PROGRAMMING-lightgrey">
+<img src="https://img.shields.io/badge/MIS218-DATABASE%20PROGRAMMING-green">
 </a>
 <a href="https://github.com/edunzer/MIS273_WINDOWS_SERVER_FUNDAMENTALS">
-<img src="https://img.shields.io/badge/MIS273-WINDOWS%20SERVER%20FUNDAMENTALS-lightgrey">
+<img src="https://img.shields.io/badge/MIS273-WINDOWS%20SERVER%20FUNDAMENTALS-green">
 </a>
 <a href="https://github.com/edunzer/MIS311_INTRO_TO_SYSTEMS_ANALYSIS">
-<img src="https://img.shields.io/badge/MIS311%20-INTRO%20TO%20SYTEMS%20ANALYSIS-lightgrey">
+<img src="https://img.shields.io/badge/MIS311%20-INTRO%20TO%20SYTEMS%20ANALYSIS-green">
+</a>
+<a href="https://github.com/edunzer/MIS312_SYSTEMS_ANALYSIS_I">
+<img src="https://img.shields.io/badge/MIS312-SYSTEMS%20ANALYSIS%20I-lightgrey">
 </a>
 
 
@@ -41,6 +44,10 @@
 <a href="https://github.com/edunzer/WRI122_ARGUMENTATIVE_WRITING">
 <img src="https://img.shields.io/badge/WRI122-ARGUMENTATIVE%20WRITING-green">
 </a>
+<a href="https://github.com/edunzer/WRI327_ADVANCED_TECHNICAL_WRITING">
+<img src="https://img.shields.io/badge/WRI327-AVANACED%20TECHNICAL%20WRITING%20-lightgrey">
+</a>
+
 
 #### BUS CLASSES
 <a href="https://github.com/edunzer/BUS223_MARKETING_I">
@@ -50,7 +57,15 @@
 <img src="https://img.shields.io/badge/BUS226-BUSINESS%20LAW-green">
 </a>
 <a href="https://github.com/edunzer/BUS304_ENGINEERING_MANAGEMENT">
-<img src="https://img.shields.io/badge/BUS304-ENGINEERING%20MANAGEMENT-lightgrey">
+<img src="https://img.shields.io/badge/BUS304-ENGINEERING%20MANAGEMENT-green">
+</a>
+
+#### RANDOM CLASSES
+<a href="https://github.com/edunzer/PSY347_ORGANIZATIONAL_BEHAVIOR">
+<img src="https://img.shields.io/badge/PSY347-ORGANIZATIONAL%20BEHAVIOR-lightgrey">
+</a>
+<a href="https://github.com/edunzer/SPE321_SMALL_GROUP_TEAM_COMMUNICATION">
+<img src="https://img.shields.io/badge/SPE321-SMALL%20GROUP%20TEAM%20COMMUNICATION-lightgrey">
 </a>
 
 ##### KEY
