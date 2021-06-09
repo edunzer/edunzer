@@ -46,7 +46,7 @@
 <img src="https://img.shields.io/badge/WRI122-ARGUMENTATIVE%20WRITING-green">
 </a>
 <a href="https://github.com/edunzer/WRI327_ADVANCED_TECHNICAL_WRITING">
-<img src="https://img.shields.io/badge/WRI327-AVANACED%20TECHNICAL%20WRITING%20-lightgrey">
+<img src="https://img.shields.io/badge/WRI327-AVANACED%20TECHNICAL%20WRITING%20-green">
 </a>
 
 
@@ -63,14 +63,14 @@
 
 #### RANDOM CLASSES
 <a href="https://github.com/edunzer/PSY347_ORGANIZATIONAL_BEHAVIOR">
-<img src="https://img.shields.io/badge/PSY347-ORGANIZATIONAL%20BEHAVIOR-lightgrey">
+<img src="https://img.shields.io/badge/PSY347-ORGANIZATIONAL%20BEHAVIOR-green">
 </a>
 <a href="https://github.com/edunzer/SPE321_SMALL_GROUP_TEAM_COMMUNICATION">
-<img src="https://img.shields.io/badge/SPE321-SMALL%20GROUP%20TEAM%20COMMUNICATION-lightgrey">
+<img src="https://img.shields.io/badge/SPE321-SMALL%20GROUP%20TEAM%20COMMUNICATION-green">
 </a>
 
 ##### KEY
-> <img src="https://img.shields.io/badge/-COMPLETE-green"><img src="https://img.shields.io/badge/-INPROGRESS-lightgrey">
+> <img src="https://img.shields.io/badge/-COMPLETE-green"><img src="https://img.shields.io/badge/-INPROGRESS-green">
 
 ___
 
