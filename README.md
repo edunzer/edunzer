@@ -36,7 +36,7 @@
 <img src="https://img.shields.io/badge/MIS311%20-INTRO%20TO%20SYTEMS%20ANALYSIS-green">
 </a>
 <a href="https://github.com/edunzer/MIS312_SYSTEMS_ANALYSIS_I">
-<img src="https://img.shields.io/badge/MIS312-SYSTEMS%20ANALYSIS%20I-lightgrey">
+<img src="https://img.shields.io/badge/MIS312-SYSTEMS%20ANALYSIS%20I-green">
 </a>
 
 
