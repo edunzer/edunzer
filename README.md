@@ -70,7 +70,7 @@
 </a>
 
 ##### KEY
-> <img src="https://img.shields.io/badge/-COMPLETE-green"><img src="https://img.shields.io/badge/-INPROGRESS-green">
+> <img src="https://img.shields.io/badge/-COMPLETE-green"><img src="https://img.shields.io/badge/-INPROGRESS-lightgrey">
 
 ___
 
