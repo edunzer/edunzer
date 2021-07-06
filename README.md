@@ -68,6 +68,15 @@
 <a href="https://github.com/edunzer/SPE321_SMALL_GROUP_TEAM_COMMUNICATION">
 <img src="https://img.shields.io/badge/SPE321-SMALL%20GROUP%20TEAM%20COMMUNICATION-green">
 </a>
+<a href="https://github.com/edunzer/ACC201_PRINCIPLES_OF_ACCOUNTING_I">
+<img src="https://img.shields.io/badge/ACC201-PRINCIPLES%20OF%20ACCOUNTING%20I-green">
+</a>
+<a href="https://github.com/edunzer/MATH361_STATISTICAL_METHODS_I">
+<img src="https://img.shields.io/badge/MATH361-STATISTICAL%20METHODS%20I-green">
+</a>
+<a href="https://github.com/edunzer/MGT335_PROJECT_MANAGEMENT">
+<img src="https://img.shields.io/badge/MGT335-PROJECT%20MANAGEMENT-green">
+</a>
 
 ##### KEY
 > <img src="https://img.shields.io/badge/-COMPLETE-green"><img src="https://img.shields.io/badge/-INPROGRESS-lightgrey">
