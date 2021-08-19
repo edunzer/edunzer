@@ -1,4 +1,4 @@
-<a href="url"><img src="https://github.com/edunzer/edunzer/blob/main/FINISHED%20GITHUB%20CUT%20GIF.gif" width="950">
+<a href="https://github.com/edunzer/edunzer/edit/main/README.md"><img src="https://github.com/edunzer/edunzer/blob/main/FINISHED%20GITHUB%20CUT%20GIF.gif" width="950">
 
 ## 💻 OREGON TECH | INFORMATION AND TECHNOLOGY CLASSES
 
