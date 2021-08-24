@@ -28,7 +28,6 @@
 <a href="https://github.com/edunzer/MIS218_DATABASE_PROGRAMMING">
 <img src="https://img.shields.io/badge/MIS218-DATABASE%20PROGRAMMING-green">
 </a>
-
 <a href="https://github.com/edunzer/MIS273_WINDOWS_SERVER_FUNDAMENTALS">
 <img src="https://img.shields.io/badge/MIS273-WINDOWS%20SERVER%20FUNDAMENTALS-green">
 </a>
@@ -38,6 +37,13 @@
 <a href="https://github.com/edunzer/MIS312_SYSTEMS_ANALYSIS_I">
 <img src="https://img.shields.io/badge/MIS312-SYSTEMS%20ANALYSIS%20I-green">
 </a>
+<a href="https://github.com/edunzer/MIS322_SYSTEMS_ANALYSIS_-_DESIGN_II">
+<img src="https://img.shields.io/badge/MIS322-SYSTEMS%20ANALYSIS%20%26%20DESIGN%20II-lightgrey">
+</a>
+<a href="https://github.com/edunzer/MIS442_ADV_WEB_APP_PROGRAMMING">
+<img src="https://img.shields.io/badge/MIS442-ADVANCED%20WEB%20APP%20PROGRAMMING-lightgrey">
+</a>
+
 
 
 
@@ -60,6 +66,9 @@
 <a href="https://github.com/edunzer/BUS304_ENGINEERING_MANAGEMENT">
 <img src="https://img.shields.io/badge/BUS304-ENGINEERING%20MANAGEMENT-green">
 </a>
+<a href="https://github.com/edunzer/BUS356_BUSINESS_PRESENTATIONS">
+<img src="https://img.shields.io/badge/BUS356-BUSINESS%20PRESENTATIONS-lightgrey">
+</a>
 
 #### RANDOM CLASSES
 <a href="https://github.com/edunzer/PSY347_ORGANIZATIONAL_BEHAVIOR">
@@ -76,6 +85,9 @@
 </a>
 <a href="https://github.com/edunzer/MGT335_PROJECT_MANAGEMENT">
 <img src="https://img.shields.io/badge/MGT335-PROJECT%20MANAGEMENT-green">
+</a>
+<a href="https://github.com/edunzer/ACC203_PRINCIPLES_OF_MANAGERIAL_ACCOUNTING">
+<img src="https://img.shields.io/badge/ACC203-PRINCIPLES%20OF%20MANAGERIAL%20ACCOUNTING-lightgrey">
 </a>
 
 ##### KEY
