@@ -102,6 +102,10 @@ ___
     </a>
     <a href="https://edunzer.github.io/ethandunzer.github.io/">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edunzer&repo=ethandunzer.github.io&title_color=464646&text_color=666666&icon_color=95D575&bg_color=F7F7F7" />
+    </a>
+    </a> 
+    <a href="https://github.com/edunzer/dotfiles">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edunzer&repo=dotfiles&title_color=464646&text_color=666666&icon_color=95D575&bg_color=F7F7F7" />
     </a> 
   </td>
   <td width="50%">
