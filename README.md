@@ -38,7 +38,7 @@
 <img src="https://img.shields.io/badge/MIS312-SYSTEMS%20ANALYSIS%20I-green">
 </a>
 <a href="https://github.com/edunzer/MIS322_SYSTEMS_ANALYSIS_-_DESIGN_II">
-<img src="https://img.shields.io/badge/MIS322-SYSTEMS%20ANALYSIS%20%26%20DESIGN%20II-lightgrey">
+<img src="https://img.shields.io/badge/MIS322-SYSTEMS%20ANALYSIS%20%26%20DESIGN%20II-green">
 </a>
 
 
@@ -83,7 +83,7 @@
 <img src="https://img.shields.io/badge/MGT335-PROJECT%20MANAGEMENT-green">
 </a>
 <a href="https://github.com/edunzer/ACC203_PRINCIPLES_OF_MANAGERIAL_ACCOUNTING">
-<img src="https://img.shields.io/badge/ACC203-PRINCIPLES%20OF%20MANAGERIAL%20ACCOUNTING-lightgrey">
+<img src="https://img.shields.io/badge/ACC203-PRINCIPLES%20OF%20MANAGERIAL%20ACCOUNTING-green">
 </a>
 
 ##### KEY
