@@ -92,7 +92,7 @@
 <img src="https://img.shields.io/badge/ANTH452-GLOBALIZATION-lightgrey">
 </a>
 <a href="">
-<img src="https://img.shields.io/badge/MGT461-LEAN%2FSIZ%20SIGMA%20MANAGEMNET%20I-lightgrey">
+<img src="https://img.shields.io/badge/MGT461-LEAN%2FSIX%20SIGMA%20MANAGEMNET%20I-lightgrey">
 </a>
 
 ##### KEY
