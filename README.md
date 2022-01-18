@@ -64,6 +64,9 @@
 <a href="https://github.com/edunzer/BUS304_ENGINEERING_MANAGEMENT">
 <img src="https://img.shields.io/badge/BUS304-ENGINEERING%20MANAGEMENT-green">
 </a>
+<a href="">
+<img src="https://img.shields.io/badge/BUS478-STRATEGIC%20MANAGEMENT-lightgrey">
+</a>
 
 
 #### RANDOM CLASSES
@@ -84,6 +87,12 @@
 </a>
 <a href="https://github.com/edunzer/ACC203_PRINCIPLES_OF_MANAGERIAL_ACCOUNTING">
 <img src="https://img.shields.io/badge/ACC203-PRINCIPLES%20OF%20MANAGERIAL%20ACCOUNTING-green">
+</a>
+<a href="">
+<img src="https://img.shields.io/badge/ANTH452-GLOBALIZATION-lightgrey">
+</a>
+<a href="">
+<img src="https://img.shields.io/badge/MGT461-LEAN%2FSIZ%20SIGMA%20MANAGEMNET%20I-lightgrey">
 </a>
 
 ##### KEY
