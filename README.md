@@ -65,7 +65,7 @@
 <img src="https://img.shields.io/badge/BUS304-ENGINEERING%20MANAGEMENT-green">
 </a>
 <a href="https://github.com/edunzer/BUS478_STRATEGIC_MANAGEMENT">
-<img src="https://img.shields.io/badge/BUS478-STRATEGIC%20MANAGEMENT-lightgrey">
+<img src="https://img.shields.io/badge/BUS478-STRATEGIC%20MANAGEMENT-green">
 </a>
 
 
@@ -89,10 +89,10 @@
 <img src="https://img.shields.io/badge/ACC203-PRINCIPLES%20OF%20MANAGERIAL%20ACCOUNTING-green">
 </a>
 <a href="https://github.com/edunzer/ANTH452_GLOBALIZATION">
-<img src="https://img.shields.io/badge/ANTH452-GLOBALIZATION-lightgrey">
+<img src="https://img.shields.io/badge/ANTH452-GLOBALIZATION-green">
 </a>
 <a href="https://github.com/edunzer/MGT461_LEAN_SIX_SIGMA_MANAGEMENT_I">
-<img src="https://img.shields.io/badge/MGT461-LEAN%2FSIX%20SIGMA%20MANAGEMNET%20I-lightgrey">
+<img src="https://img.shields.io/badge/MGT461-LEAN%2FSIX%20SIGMA%20MANAGEMNET%20I-green">
 </a>
 
 ##### KEY
