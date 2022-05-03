@@ -41,7 +41,7 @@
 <img src="https://img.shields.io/badge/MIS322-SYSTEMS%20ANALYSIS%20%26%20DESIGN%20II-green">
 </a>
 <a href="https://github.com/edunzer/CYB201_CYBERSECURITY_FUNDAMENTALS">
-<img src="https://img.shields.io/badge/CYB201-CYBERSECURITY%20FUNDAMENTALS-green">
+<img src="https://img.shields.io/badge/CYB201-CYBERSECURITY%20FUNDAMENTALS-lightgrey">
 </a>
 
 
