@@ -109,6 +109,7 @@ ___
   <td width="50%">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=edunzer&title_color=464646&text_color=666666&icon_color=95D575&bg_color=F7F7F7&hide_border=false&include_all_commits=true&count_private=false"/>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edunzer&title_color=464646&text_color=666666&icon_color=95D575&bg_color=F7F7F7&hide_border=false"/>
+    <a href="https://github.com/edunzer/CURRENT_RESUME"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edunzer&repo=ethandunzer.github.io&title_color=464646&text_color=666666&icon_color=95D575&bg_color=F7F7F7" /></a>
   </td>
   <td width="50%">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edunzer&title_color=464646&text_color=666666&icon_color=95D575&bg_color=F7F7F7&hide_border=false&include_all_commits=true&count_private=false&layout=compact)"/>
