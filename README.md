@@ -1,5 +1,3 @@
-<a href="https://github.com/edunzer/CURRENT_RESUME/blob/main/Resume_v18.pdf"><img src="https://github.com/edunzer/edunzer/blob/main/FINISHED%20GITHUB%20CUT%20GIF.gif" width="950">
-
 ## 💻 OREGON TECH | INFORMATION AND TECHNOLOGY CLASSES
 
 #### MIS CLASSES
