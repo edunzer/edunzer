@@ -1,3 +1,46 @@
+## ℹ️ ABOUT ME
+
+#### Solving complex business challenges with Salesforce architecture, automation, and integrations is the focus of my work.
+
+As a Business Application Architect at The Opus Group, I create Salesforce solutions that improve efficiency, elevate user experiences, and optimize business operations.
+
+With a Bachelor of Science in Information Technology from Oregon Institute of Technology (GPA: 3.8), my background combines technical expertise with a problem-solving mindset.
+
+My passion for design, architecture, and engineering shapes the way I solve problems. Growing up around construction projects, I developed an eye for structural design and process efficiency, applying those principles to software development and system architecture. Whether working on a Salesforce solution or designing a personal project, I enjoy breaking down complex problems and creating well-structured, scalable solutions.
+
+Continuous learning and adaptability drive my career, and I am always interested in new challenges that expand my expertise. True progress often requires challenging assumptions, questioning the status quo, and being unafraid to say "no" when something isn’t right. This mindset aligns with one of my favorite quotes:
+
+"The reasonable person adapts themselves to the world: the unreasonable person persists in trying to adapt the world to themselves. Therefore, all progress depends on the unreasonable person."
+
+___
+
+## &#x1f4c8; QUICK INFO
+
+<a href="https://github.com/edunzer?tab=repositories">
+<table width="100%"> 
+  <tr>
+  <td width="50%">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=edunzer&title_color=464646&text_color=666666&icon_color=95D575&bg_color=F7F7F7&hide_border=false&include_all_commits=true&count_private=false"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edunzer&title_color=464646&text_color=666666&icon_color=95D575&bg_color=F7F7F7&hide_border=false"/>
+    <a href="https://edunzer.github.io/ethandunzer.github.io/"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edunzer&repo=ethandunzer.github.io&title_color=464646&text_color=666666&icon_color=95D575&bg_color=F7F7F7" /></a>
+  </td>
+  <td width="50%">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edunzer&title_color=464646&text_color=666666&icon_color=95D575&bg_color=F7F7F7&hide_border=false&include_all_commits=true&count_private=false&layout=compact)"/>
+    <a href="https://github.com/edunzer/CURRENT_RESUME"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edunzer&repo=CURRENT_RESUME&title_color=464646&text_color=666666&icon_color=95D575&bg_color=F7F7F7" /></a>
+  </td>
+</table>
+</a>
+
+___
+
+## 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+## 🏆 GITHUB TROPHIES
+![](https://github-profile-trophy.vercel.app/?username=edunzer&title_color=464646&text_color=666666&icon_color=95D575&bg_color=F7F7F7&no-frame=true&margin-w=4)
+
+___
+
 ## 💻 OREGON TECH | INFORMATION AND TECHNOLOGY CLASSES
 
 #### MIS CLASSES
@@ -97,30 +140,6 @@
 ##### KEY
 > <img src="https://img.shields.io/badge/-COMPLETE-green"><img src="https://img.shields.io/badge/-INPROGRESS-lightgrey">
 
-___
-
-## &#x1f4c8; QUICK INFO
-
-<a href="https://github.com/edunzer?tab=repositories">
-<table width="100%"> 
-  <tr>
-  <td width="50%">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=edunzer&title_color=464646&text_color=666666&icon_color=95D575&bg_color=F7F7F7&hide_border=false&include_all_commits=true&count_private=false"/>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edunzer&title_color=464646&text_color=666666&icon_color=95D575&bg_color=F7F7F7&hide_border=false"/>
-    <a href="https://edunzer.github.io/ethandunzer.github.io/"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edunzer&repo=ethandunzer.github.io&title_color=464646&text_color=666666&icon_color=95D575&bg_color=F7F7F7" /></a>
-  </td>
-  <td width="50%">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edunzer&title_color=464646&text_color=666666&icon_color=95D575&bg_color=F7F7F7&hide_border=false&include_all_commits=true&count_private=false&layout=compact)"/>
-    <a href="https://github.com/edunzer/CURRENT_RESUME"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edunzer&repo=CURRENT_RESUME&title_color=464646&text_color=666666&icon_color=95D575&bg_color=F7F7F7" /></a>
-  </td>
-</table>
-</a>
-
-## 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-## 🏆 GITHUB TROPHIES
-![](https://github-profile-trophy.vercel.app/?username=edunzer&title_color=464646&text_color=666666&icon_color=95D575&bg_color=F7F7F7&no-frame=true&margin-w=4)
 
 
 
