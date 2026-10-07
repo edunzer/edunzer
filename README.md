@@ -1,14 +1,14 @@
 ## ℹ️ ABOUT ME
 
-#### Solving complex business challenges with Salesforce architecture, automation, and integrations is the focus of my work.
+#### I design Salesforce systems and then build them myself: the architecture, the automation, and the integrations that connect Salesforce to the rest of the business.
 
-As a Business Application Architect at The Opus Group, I create Salesforce solutions that improve efficiency, elevate user experiences, and optimize business operations.
+I'm a solution architect at LOVALTO. Before that, I grew from junior Salesforce administrator to senior business application architect at The Opus Group, where I was the lead architect for a 700+ user platform spanning Sales Cloud, Service Cloud and Certinia PSA, with integrations to Okta, Slack, Sage Intacct and Google Workspace.
 
-With a Bachelor of Science in Information Technology from Oregon Institute of Technology (GPA: 3.8), my background combines technical expertise with a problem-solving mindset.
+Design, architecture and engineering shape how I solve problems. Growing up around construction projects gave me an eye for structural design and process efficiency, and I apply the same principles to system architecture: break the problem down, then build something well-structured enough to scale.
 
-My passion for design, architecture, and engineering shapes the way I solve problems. Growing up around construction projects, I developed an eye for structural design and process efficiency, applying those principles to software development and system architecture. Whether working on a Salesforce solution or designing a personal project, I enjoy breaking down complex problems and creating well-structured, scalable solutions.
+Outside of work, I'm into cooking, architecture and cars.
 
-Continuous learning and adaptability drive my career, and I am always interested in new challenges that expand my expertise. True progress often requires challenging assumptions, questioning the status quo, and being unafraid to say "no" when something isn’t right. This mindset aligns with one of my favorite quotes:
+Progress often means questioning the status quo and being willing to say no when something isn't right. That's why this is one of my favorite quotes:
 
 "The reasonable person adapts themselves to the world: the unreasonable person persists in trying to adapt the world to themselves. Therefore, all progress depends on the unreasonable person."
 
